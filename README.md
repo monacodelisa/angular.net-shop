@@ -1,1 +1,2 @@
-# angular.net-shop
+# Angular .NET 
+Shopping App
